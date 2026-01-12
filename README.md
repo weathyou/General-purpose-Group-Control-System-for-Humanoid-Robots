@@ -1,5 +1,7 @@
 # General-purpose-Group-Control-System-for-Humanoid-Robots 🎶🤖
 
+[English](README.md) | [简体中文](README_zh.md)
+
 A PC-based synchronization controller for triggering **simultaneous dance actions**
 across multiple humanoid robots using **virtual gamepads** over LAN.
 
